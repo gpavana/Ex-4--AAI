@@ -1,8 +1,7 @@
-<H3>NAME : PAVANA G</H3>
-<H3>REGISTER NO : 212222230105</H3>
-<H3>DATE:</H3>
-<H3>EX. NO.4</H3>
-<H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
+<H1>Experiment 4: Implementation of Hidden Markov Model</H1>
+<H1>Date:</H1>
+<H3>Name:PAVANA G</H3>
+<H3>Register No:212222230105</H3>
 
 ## Aim: 
 Construct a Python code to find the sequence of hidden states by the known sequence of observances using Hidden Markov Model. Consider two hidden states Sunny and Rainy with observable states,happy and sad.
